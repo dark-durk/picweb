@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组复制@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30" rx="4"></rect>
+        <filter x="-100.0%" y="-100.0%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="10 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="单图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="单图详情-copy复制" transform="translate(-1124.000000, -26.000000)">
+            <g id="编组复制" transform="translate(1124.000000, 26.000000)">
+                <g id="矩形">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="蒙版"></g>
+                    <rect fill="#FFFFFF" filter="url(#filter-3)" mask="url(#mask-2)" x="0" y="0" width="30" height="30" rx="4"></rect>
+                </g>
+                <g id="Group-10" transform="translate(8.500000, 8.500000)" fill="#A6A7A9" fill-rule="nonzero">
+                    <polygon id="Path-5" points="0.151471863 1.84852814 11.0220149 12.7190712 12.7190712 11.0220149 1.84852814 0.151471863"></polygon>
+                    <polygon id="Path-5" transform="translate(6.435272, 6.435272) scale(-1, 1) translate(-6.435272, -6.435272) " points="0.151471863 1.84852814 11.0220149 12.7190712 12.7190712 11.0220149 1.84852814 0.151471863"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
